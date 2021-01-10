@@ -11,6 +11,8 @@ var - can change
 val - constant - can not change
     ``` val myName = "Brittany" ```
 
+BigInt("4535433743503257628937523857325235320975325782375")
+
 Datatypes available in scala:
 ---------- DATA TYPES ----------
 All datatypes in Scala are objects and they include
@@ -26,4 +28,5 @@ Double : -1.7976931348623157E308 to 1.7976931348623157E308
 
 Notes: 
 Can use semi colons to end all statements 
+
 
