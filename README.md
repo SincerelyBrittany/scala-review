@@ -2,15 +2,17 @@
 
 Terminal:
 
+Everything is an object with methods available to them! 
+
 To open type ```scala``` into the terminal
 To quit type ```:q```
 
 
 <br />
 
-Variables:
+Variables: <br />
 var - can change 
-    ``` var myAge = 26 ```
+    ``` var myAge = 26 ``` <br />
 val - constant - can not change
     ``` val myName = "Brittany" ```
 
@@ -21,6 +23,17 @@ Integers:
 
 BigInt("4535433743503257628937523857325235320975325782375")
 
+<br />
+Integers im terminal: <br />
+If you want to see all of the oprtions for an integer in the terminal use: 
+
+var randInt = 10000
+<br />
+randInt. 
+<br />
+press tab
+<br />
+shows all available options 
 <br />
 
 Datatypes available in scala:
@@ -48,7 +61,11 @@ Float : -3.4028235E38 to 3.4028235E38
 Double : -1.7976931348623157E308 to 1.7976931348623157E308
 
 <br />
+
+
+
 Notes: 
 Can use semi colons to end all statements 
+You can import libraries into scala by using ```import scala.math._```
 
 
