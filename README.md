@@ -1,5 +1,19 @@
 # scala-review
 
+
+Youtube Video Watched: https://www.youtube.com/watch?v=DzFt0YkZo8M&t=1218s&ab_channel=DerekBanas
+
+<br />
+Scala Review Website: https://www.scala-exercises.org/scala_tutorial/terms_and_types
+
+<br /> 
+
+https://cognitiveclass.ai/ scala review: https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+SC0101EN+2016/course/
+
+<br /> 
+
+
+
 Terminal:
 
 Everything is an object with methods available to them! 
